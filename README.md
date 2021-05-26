@@ -1,6 +1,6 @@
-# droot
+# Droot
 
-A new Flutter project.
+Your Personal Travel Assistant
 
 ## Getting Started
 
