@@ -4,7 +4,7 @@ Your Personal Travel Assistant
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Our project is built to run on the Flutter _stable_ release.
 
 ### IMPORTANT:
 
